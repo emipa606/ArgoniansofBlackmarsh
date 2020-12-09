@@ -23,8 +23,8 @@
         </categories>
       </li>
     </backstoryFilters>
-    <settlementTexturePath>World/ArgoBase</settlementTexturePath>
-    <factionIconPath>World/ArgoBase</factionIconPath>
+    <settlementTexturePath>World/ArgoHomeBase</settlementTexturePath>
+    <factionIconPath>World/ArgoHomeBase</factionIconPath>
     <startingResearchTags>
       <li>TribalStart</li>
     </startingResearchTags>

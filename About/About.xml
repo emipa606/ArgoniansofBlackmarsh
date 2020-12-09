@@ -19,12 +19,15 @@
   </modDependencies>
   <loadAfter>
     <li>erdelf.HumanoidAlienRaces</li>
+    <li>pyrce.swimming.modkit</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of Helixien and Xens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018386837
 
 - Added Royalty faction goodwill patch
+- Added compatibility with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1542399915]SwimmingKit[/url]
+- Included the patches for homebase icon and colorspectrum from the patch [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1732631434]Argonian Edits[/url] by Vas
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
