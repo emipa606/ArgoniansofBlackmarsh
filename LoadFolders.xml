@@ -9,11 +9,13 @@
     <li>/</li>
     <li>1.1</li>
     <li IfModActive="pyrce.swimming.modkit">SwimmingKit</li>
+    <li IfModActive="CETeam.CombatExtended">CE</li>
   </v1.1>
   <v1.2>
     <li>/</li>
     <li>1.2</li>
     <li IfModActive="Ludeon.Rimworld.Royalty">Royalty</li>
     <li IfModActive="pyrce.swimming.modkit">SwimmingKit</li>
+    <li IfModActive="CETeam.CombatExtended">CE</li>
   </v1.2>
 </loadFolders>
