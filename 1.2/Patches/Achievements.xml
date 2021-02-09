@@ -112,6 +112,7 @@
             <AchievementsExpanded.Reward_MapIncident>
               <defName>Argonian_AnArgonianJoinsTheColony</defName>
               <label>An Argonian Joins</label>
+              <tab>Mlie_Continued</tab>
               <cost>150</cost>
               <incident>Argonian_ArgonianJoinsTheColony</incident>
             </AchievementsExpanded.Reward_MapIncident>
