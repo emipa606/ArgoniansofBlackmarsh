@@ -244,6 +244,7 @@
           <li>ObservedLayingCorpse</li>
           <li>AteHumanlikeMeatDirect</li>
           <li>AteHumanlikeMeatAsIngredient</li>
+          <li>SoakingWet</li>
         </cannotReceiveThoughts>
       </thoughtSettings>
     </alienRace>
