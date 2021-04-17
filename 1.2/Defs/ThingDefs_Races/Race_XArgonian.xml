@@ -75,6 +75,8 @@
           </aliencrowntypes>
           <alienbodytypes>
             <li>Hulk</li>
+            <li>Fat</li>
+            <li>Thin</li>
             <li>Female</li>
             <li>Male</li>
           </alienbodytypes>
