@@ -9,6 +9,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2018386837
 - Added compatibility with https://steamcommunity.com/sharedfiles/filedetails/?id=1542399915]SwimmingKit
 - Included the patches for homebase icon and colorspectrum from the patch https://steamcommunity.com/sharedfiles/filedetails/?id=1732631434]Argonian Edits by Vas
 - Added an updated version of the https://steamcommunity.com/sharedfiles/filedetails/?id=1385996651]CE patch by Saebbi
+- Added Fat and Thin bodytypes, thanks Delta!
+- Argonian Leather Thoughts mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2454849340
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 

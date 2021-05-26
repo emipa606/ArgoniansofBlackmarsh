@@ -59,7 +59,12 @@
       </alienwandererkinds>
     </pawnKindSettings>
   </AlienRace.RaceSettings>
-  <AlienRace.ThingDef_AlienRace ParentName="BasePawn">
+  <ThingDef Name="BaseArgonianPawn" Abstract="True" ParentName="BasePawn">
+    <statBases>
+      <Mass>70</Mass>
+    </statBases>
+  </ThingDef>
+  <AlienRace.ThingDef_AlienRace ParentName="BaseArgonianPawn">
     <defName>Alien_Argonian</defName>
     <label>Argonian</label>
     <description>A strange and mysterious reptilian race, known for their connection to an even more mysterious tree called the Hist.</description>

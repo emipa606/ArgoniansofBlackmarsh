@@ -1,5 +1,8 @@
 # Changelog for ArgoniansofBlackmarsh
 
+1.0.9.0 - Fixed Swimkit patch
+
+
 1.0.8.0 - Added Thin and Fat-bodytypes, thanks Delta!
 
 

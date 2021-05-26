@@ -1,11 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <Operation Class="PatchOperationAdd">
-    <xpath>/Defs/ThingDef[@Name = "BaseArgoPawn"]</xpath>
+    <xpath>/Defs/ThingDef[@Name="BaseArgonianPawn"]/statBases</xpath>
     <value>
-      <statBases>
-        <SwimSpeed>5.62</SwimSpeed>
-      </statBases>
+      <SwimSpeed>5.62</SwimSpeed>
     </value>
   </Operation>
 </Patch>
