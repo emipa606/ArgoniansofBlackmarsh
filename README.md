@@ -10,7 +10,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2018386837
 - Included the patches for homebase icon and colorspectrum from the patch https://steamcommunity.com/sharedfiles/filedetails/?id=1732631434]Argonian Edits by Vas
 - Added an updated version of the https://steamcommunity.com/sharedfiles/filedetails/?id=1385996651]CE patch by Saebbi
 - Added Fat and Thin bodytypes, thanks Delta!
-- Argonian Leather Thoughts mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2454849340
+
+## Supporting mods
+
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2454849340]Argonian Leather Thoughts mod by Razza 
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2501584842]Argonians of Blackmarsh Rebalancing by Rk
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
@@ -30,7 +34,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2288125657]![Image](https
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
 
-Argonians (in their native tongue of Jel they call themselves the Saxhleel, or People of the Root) are the reptilian natives of Black Marsh, a vast swampland province in southeastern Tamriel. The other races often prefer to refer to them as 'lizards' or the 'Lizard Folk' instead, especially when meaning to be derogative. They are known as the foremost experts in guerrilla warfare throughout the Starry Heart, a reputation brought upon them by defending their borders from enemies for countless centuries.
+Argonians (in their native tongue of Jel they call themselves the Saxhleel, or People of the Root) are the reptilian natives of Black Marsh, a vast swampland province in southeastern Tamriel. The other races often prefer to refer to them as &apos;lizards&apos; or the &apos;Lizard Folk&apos; instead, especially when meaning to be derogative. They are known as the foremost experts in guerrilla warfare throughout the Starry Heart, a reputation brought upon them by defending their borders from enemies for countless centuries.
 
 
 ![Image](https://i.imgur.com/Rs6T6cr.png)
