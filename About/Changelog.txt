@@ -1,5 +1,8 @@
 # Changelog for ArgoniansofBlackmarsh
 
+1.0.14.0 - CE-patch is now included in the main CE-mod instead
+
+
 1.0.13.0 - Wounds and bionics should now be at the correct place
 
 
