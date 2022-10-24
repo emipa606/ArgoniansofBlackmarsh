@@ -10,6 +10,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2018386837
 - Included the patches for homebase icon and colorspectrum from the patch https://steamcommunity.com/sharedfiles/filedetails/?id=1732631434]Argonian Edits by Vas
 - [strike]Added an updated version of the https://steamcommunity.com/sharedfiles/filedetails/?id=1385996651]CE patch by Saebbi[/strike] Patch now included in the main CE-mod instead
 - Added Fat and Thin bodytypes, thanks Delta!
+- To select the minimum age for the biosculptor, please use the https://steamcommunity.com/sharedfiles/filedetails/?id=2600514932]Select Adulthood
 
 ## Supporting mods
 
@@ -38,6 +39,7 @@ Argonians (in their native tongue of Jel they call themselves the Saxhleel, or P
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
