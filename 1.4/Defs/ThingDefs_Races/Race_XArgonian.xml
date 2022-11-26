@@ -87,6 +87,8 @@
             <li>Thin</li>
             <li>Female</li>
             <li>Male</li>
+            <li MayRequire="Ludeon.RimWorld.Biotech">Baby</li>
+            <li MayRequire="Ludeon.RimWorld.Biotech">Child</li>
           </bodyTypes>
           <colorChannels>
             <li>
@@ -355,6 +357,18 @@
       </specialShadowData>
       <ageGenerationCurve>
         <points>
+          <li MayRequire="Ludeon.RimWorld.Biotech">(0,0)</li>
+          <li MayRequire="Ludeon.RimWorld.Biotech">(0.001,43)</li>
+          <li MayRequire="Ludeon.RimWorld.Biotech">(8,86)</li>
+          <li MayRequire="Ludeon.RimWorld.Biotech">(12.5,118)</li>
+          <!-- Exclude 12.5-13 years to avoid spawning pawns who are very close to becoming adults -->
+          <li MayRequire="Ludeon.RimWorld.Biotech">(12.51,0)</li>
+          <li MayRequire="Ludeon.RimWorld.Biotech">(13,0)</li>
+          <li MayRequire="Ludeon.RimWorld.Biotech">(13.001,122)</li>
+          <!-- End exclude -->
+          <li MayRequire="Ludeon.RimWorld.Biotech">(13.999,130)</li>
+          <li>(14,0)</li>
+          <li MayRequire="Ludeon.RimWorld.Biotech">(14.001,130)</li>
           <li>(16,0)</li>
           <li>(17,200)</li>
           <li>(20,100)</li>
