@@ -17,7 +17,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2018386837
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2454849340]Argonian Leather Thoughts mod by Razza 
 - https://steamcommunity.com/sharedfiles/filedetails/?id=2501584842]Argonians of Blackmarsh Rebalancing by Rk
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/KFjAmff.png)
 
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2288125657]![Image](https://i.imgur.com/kNldlMg.png)
@@ -35,12 +35,13 @@ Argonians (in their native tongue of Jel they call themselves the Saxhleel, or P
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+-  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2263851875]![Image](https://img.shields.io/github/v/release/emipa606/ArgoniansofBlackmarsh?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2263851875]Last updated 2023-01-09
